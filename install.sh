@@ -194,7 +194,7 @@ function banner(){
 main(){
     clear
     banner
-    cekkoneksi
+    #cekkoneksi
     cekwget
     cekfont
 }
